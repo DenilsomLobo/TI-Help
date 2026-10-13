@@ -2,8 +2,6 @@
 
 Uma base de conhecimento para organizar a rotina do setor de TI.
 
-> **Espaço para a capa do projeto** — imagem a ser enviada pelo autor.
-
 ![Capa do projeto TI Help](https://portifolio-denilsom-lobo.web.app/images/projetos/ti-help.png)
 
 
@@ -29,19 +27,13 @@ O sistema usa um banco SQLite local e possui autenticação de usuários, permis
 
 ### 1. Tela inicial e navegação
 
-> **Espaço para a imagem 1** — visão geral do programa em funcionamento.
-
 ![Tela inicial e navegação do TI Help](https://portifolio-denilsom-lobo.web.app/images/git_hub_imgs/TI_HELP_01.png)
 
 ### 2. Base de conhecimento
 
-> **Espaço para a imagem 2** — exemplo de consulta ou cadastro de uma solução.
-
 ![Base de conhecimento do TI Help](https://portifolio-denilsom-lobo.web.app/images/git_hub_imgs/TI_HELP_02.png)
 
 ### 3. Recursos do sistema
-
-> **Espaço para a imagem 3** — exemplo de outro recurso do programa.
 
 ![Recursos do TI Help em funcionamento](https://portifolio-denilsom-lobo.web.app/images/git_hub_imgs/TI_HELP_03.png)
 
