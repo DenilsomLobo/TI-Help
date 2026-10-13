@@ -4,10 +4,8 @@ Uma base de conhecimento para organizar a rotina do setor de TI.
 
 > **Espaço para a capa do projeto** — imagem a ser enviada pelo autor.
 
-<!-- CAPA: substitua URL_DA_CAPA pelo endereço direto da imagem no seu site
- e remova este comentário para exibir a imagem.
-![Capa do projeto TI Help](URL_DA_CAPA)
--->
+![Capa do projeto TI Help](https://portifolio-denilsom-lobo.web.app/images/projetos/ti-help.png)
+
 
 ## Sobre o projeto
 
@@ -33,28 +31,19 @@ O sistema usa um banco SQLite local e possui autenticação de usuários, permis
 
 > **Espaço para a imagem 1** — visão geral do programa em funcionamento.
 
-<!-- IMAGEM 1: substitua URL_DA_IMAGEM_1 pelo endereço direto no seu site
- e remova este comentário para exibir a imagem.
-![Tela inicial e navegação do TI Help](URL_DA_IMAGEM_1)
--->
+![Tela inicial e navegação do TI Help](https://portifolio-denilsom-lobo.web.app/images/git_hub_imgs/TI_HELP_01.png)
 
 ### 2. Base de conhecimento
 
 > **Espaço para a imagem 2** — exemplo de consulta ou cadastro de uma solução.
 
-<!-- IMAGEM 2: substitua URL_DA_IMAGEM_2 pelo endereço direto no seu site
- e remova este comentário para exibir a imagem.
-![Base de conhecimento do TI Help](URL_DA_IMAGEM_2)
--->
+![Base de conhecimento do TI Help](https://portifolio-denilsom-lobo.web.app/images/git_hub_imgs/TI_HELP_02.png)
 
 ### 3. Recursos do sistema
 
 > **Espaço para a imagem 3** — exemplo de outro recurso do programa.
 
-<!-- IMAGEM 3: substitua URL_DA_IMAGEM_3 pelo endereço direto no seu site
- e remova este comentário para exibir a imagem.
-![Recursos do TI Help em funcionamento](URL_DA_IMAGEM_3)
--->
+![Recursos do TI Help em funcionamento](https://portifolio-denilsom-lobo.web.app/images/git_hub_imgs/TI_HELP_03.png)
 
 ## Tecnologias utilizadas
 
@@ -148,3 +137,8 @@ A interface chama os serviços, que aplicam as regras de negócio e utilizam os 
 - Bancos SQLite, pastas `data` e backups locais são ignorados pelo Git.
 - O executável e suas dependências em `dist` podem acompanhar o repositório.
 - Mantenha seus backups em local seguro e não compartilhe a pasta `data` criada durante o uso do aplicativo.
+
+**Para conhecer mais projetos meus, acesse meu portfólio pelo link abaixo:**
+🔗 https://portifolio-denilsom-lobo.web.app/projetos.html
+
+
