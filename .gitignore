@@ -1,0 +1,41 @@
+# Ambiente virtual e configurações locais
+.venv/
+.env
+.env.*
+
+# Dados locais e informações dos usuários
+data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+
+# Python
+__pycache__/
+*.py[cod]
+# Extensões nativas .pyd são dependências necessárias do executável Windows.
+!dist/**/*.pyd
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Empacotamento
+build/
+# O pacote Windows limpo em dist/ acompanha o clone.
+*.7z
+*.zip
+!dist/**/*.zip
+
+# Arquivos temporários e do sistema
+tmp_*.png
+*.log
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/

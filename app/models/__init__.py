@@ -1,0 +1,1 @@
+"""Entidades da aplicação."""

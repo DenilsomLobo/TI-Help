@@ -1,0 +1,2 @@
+# Preserva os bytes dos recursos e bibliotecas do pacote Windows no clone.
+dist/** -text
